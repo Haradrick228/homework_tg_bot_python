@@ -1,0 +1,14 @@
+# Secrets
+.env
+
+# Demo notebook
+demo.ipynb
+
+# Caches
+__pycache__/
+*.pyc
+
+# Assignment draft
+ÈÈ_Ïð_2 (1).ipynb
+
+tools/build_demo_notebook.py
